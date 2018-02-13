@@ -15,14 +15,14 @@
 
 4. VScode 파일 - 작업 영역에 폴더 추가
 
-5. 터미널에 `cd d:`로 이동 후 `$ git init`
+5. 터미널에 `$ cd d:`로 이동 후 `$ git init`
 
 5. 로컬 저장소를 복제(clone)
 `$ git clone /로컬/저장소/경로`
 
 6. 저장소 생성 `$ git init`
 
-7. d: .git 폴더 삭제
+7. d: > .git 폴더 삭제
 
 ---
 
